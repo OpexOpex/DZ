@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Введите трехзначное число: ");
+int x = int.Parse (Console.ReadLine());
+int a = (x/10)%10;
+Console.Write($"Вторая цифра вашего числа {a}!");
+
+    
