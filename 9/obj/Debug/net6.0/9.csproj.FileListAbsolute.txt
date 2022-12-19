@@ -1,0 +1,15 @@
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\bin\Debug\net6.0\9.exe
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\bin\Debug\net6.0\9.deps.json
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\bin\Debug\net6.0\9.runtimeconfig.json
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\bin\Debug\net6.0\9.dll
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\bin\Debug\net6.0\9.pdb
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\obj\Debug\net6.0\9.csproj.AssemblyReference.cache
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\obj\Debug\net6.0\9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\obj\Debug\net6.0\9.AssemblyInfoInputs.cache
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\obj\Debug\net6.0\9.AssemblyInfo.cs
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\obj\Debug\net6.0\9.csproj.CoreCompileInputs.cache
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\obj\Debug\net6.0\9.dll
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\obj\Debug\net6.0\refint\9.dll
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\obj\Debug\net6.0\9.pdb
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\obj\Debug\net6.0\9.genruntimeconfig.cache
+C:\Users\proku\OneDrive\Рабочий стол\дз\9\obj\Debug\net6.0\ref\9.dll
