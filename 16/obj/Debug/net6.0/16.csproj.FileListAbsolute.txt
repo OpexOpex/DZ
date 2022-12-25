@@ -1,0 +1,15 @@
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\obj\Debug\net6.0\16.csproj.AssemblyReference.cache
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\obj\Debug\net6.0\16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\obj\Debug\net6.0\16.AssemblyInfoInputs.cache
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\obj\Debug\net6.0\16.AssemblyInfo.cs
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\obj\Debug\net6.0\16.csproj.CoreCompileInputs.cache
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\bin\Debug\net6.0\16.exe
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\bin\Debug\net6.0\16.deps.json
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\bin\Debug\net6.0\16.runtimeconfig.json
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\bin\Debug\net6.0\16.dll
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\bin\Debug\net6.0\16.pdb
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\obj\Debug\net6.0\16.dll
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\obj\Debug\net6.0\refint\16.dll
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\obj\Debug\net6.0\16.pdb
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\obj\Debug\net6.0\16.genruntimeconfig.cache
+C:\Users\proku\OneDrive\Рабочий стол\дз\16\obj\Debug\net6.0\ref\16.dll
